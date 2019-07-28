@@ -1,0 +1,8 @@
+{
+  "name": "persistent-object",
+  "version": "1.0.0",
+  "description": "Super simple Object/Array persistence with 0 dependencies and 0 learning effort",
+  "main": "index.js",
+  "author": "Corneliu Duplachi",
+  "license": "MIT"
+}
